@@ -8,9 +8,12 @@ Description
 
 
 Unu is a Telegram bot that allows users to play the famous UNO card game directly in the chat. The bot manages the game, distributes the cards, and enforces the rules, providing a fun and interactive experience.
+
 ----------------------------
 
 ![logo](https://i.ibb.co/j9PwvvqK/generated-image.png)
+
+------------------
 
 Features
 - Creation of game rooms
